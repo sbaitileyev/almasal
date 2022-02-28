@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+background-color: rgb(150, 162, 197);
+border: dashed;
+border-color: greenyellow;
+text-align: center;
+color: greenyellow;
+}
+
+h4 {
+text-align: center;
+
+
+}
+
+ul {
+
+border: inset;
+background-color: grey;
+text-align: center;
+}
+
+h3{
+text-align: center;
+background-color: rgb(14, 133, 236);
+border-color: deepskyblue;
+border: dashed;
+}
+
+h2 {
+text-align: center;
+background-color: lightgreen;
+border: double;
+border-color: lightslategrey;
+}
+h5 {
+    background-color: dodgerblue;
+    border: dotted;
+}
+h6{
+border: dotted;
+background-color: dodgerblue;
+}
+
